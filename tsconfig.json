@@ -5,12 +5,12 @@
     "lib": [
       "es2020"
     ],
-    "outDir": "out",
-    "rootDir": "src",
+    "outDir": "make",
+    "rootDir": "code",
     "sourceMap": true
   },
   "include": [
-    "src"
+    "code"
   ],
   "exclude": [
     "node_modules",
@@ -18,10 +18,10 @@
   ],
   "references": [
     {
-      "path": "./client"
+      "path": "./host"
     },
     {
-      "path": "./server"
+      "path": "./site"
     }
   ]
 }
