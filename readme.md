@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/tunebond/base-code/blob/make/view/base.logo.svg?raw=true' height='256'>
+  <img src='https://github.com/tunebond/base-code/blob/make/view/base.logo.png?raw=true' height='256'>
 </p>
 
 <h3 align='center'>base-code</h3>
@@ -18,6 +18,16 @@
 <br/>
 <br/>
 <br/>
+
+## Development
+
+```
+npm install -g @vscode/vsce
+```
+
+```
+make
+```
 
 ## License
 

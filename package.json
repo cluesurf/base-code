@@ -1,6 +1,6 @@
 {
   "name": "base",
-  "icon": "view/clover.png",
+  "icon": "view/base.logo.png",
   "displayName": "base",
   "description": "Base Language Server",
   "version": "0.0.1",
