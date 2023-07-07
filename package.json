@@ -1,14 +1,17 @@
 {
-  "name": "base",
+  "name": "base-link",
   "icon": "view/base.logo.png",
-  "displayName": "base",
-  "description": "Base Language Server",
-  "version": "0.0.1",
+  "displayName": "Base Link",
+  "description": "Base Link Language Server",
+  "version": "0.0.4",
   "license": "Apache 2.0",
   "publisher": "tunebond",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tunebond/base.git"
+    "url": "https://github.com/tunebond/base-code"
+  },
+  "bugs": {
+    "url": "https://github.com/tunebond/base-code"
   },
   "engines": {
     "vscode": "^1.59.0"
