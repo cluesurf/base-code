@@ -1,13 +1,13 @@
 {
-	"name": "link-client",
-	"description": "Link language server",
+	"name": "base-code-host",
+	"description": "Base language server client",
 	"author": "Lance Pollard",
 	"license": "Apache 2.0",
 	"version": "0.0.1",
 	"publisher": "tunebond",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tunebond/link"
+		"url": "https://github.com/tunebond/base-code"
 	},
 	"engines": {
 		"vscode": "^1.63.0"

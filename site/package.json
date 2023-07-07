@@ -1,6 +1,6 @@
 {
-	"name": "link-server",
-	"description": "Link language server",
+	"name": "base-code-site",
+	"description": "Base language server",
 	"version": "0.0.1",
 	"author": "Lance Pollard",
 	"license": "Apache 2.0",
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tunebond/link"
+		"url": "https://github.com/tunebond/base-code"
 	},
 	"dependencies": {
 		"vscode-languageserver": "^7.0.0",

@@ -6,9 +6,9 @@
 		"moduleResolution": "node",
 		"sourceMap": true,
 		"strict": true,
-		"outDir": "out",
-		"rootDir": "src"
+		"outDir": "make",
+		"rootDir": "code"
 	},
-	"include": ["src"],
+	"include": ["code"],
 	"exclude": ["node_modules", ".vscode-test"]
 }

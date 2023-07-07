@@ -12,7 +12,7 @@
 
 <h3 align='center'>base-code</h3>
 <p align='center'>
-  The VSCode Language Server for Base Link
+  The VSCode Language Server for Base
 </p>
 
 <br/>
