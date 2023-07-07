@@ -23,13 +23,13 @@
   "scripts": {
     "compile": "tsc -b",
     "watch": "tsc -b -w",
-    "postinstall": "cd client && npm install && cd ../server && npm install && cd ..",
-    "vscode:prepublish": "npm run esbuild-base:client -- --minify && npm run esbuild-base:server -- --minify",
-    "esbuild-base:client": "esbuild ./host/code/extension.ts --bundle --outfile=host/make/extension.js --external:vscode --format=cjs --platform=node",
-    "esbuild-base:server": "esbuild ./site/code/server.ts --bundle --outfile=site/make/server.js --external:vscode --format=cjs --platform=node",
-    "esbuild": "npm run esbuild-base:client -- --sourcemap && npm run esbuild-base:server -- --sourcemap",
-    "esbuild-watch:client": "npm run esbuild-base:client -- --sourcemap --watch",
-    "esbuild-watch:server": "npm run esbuild-base:server -- --sourcemap --watch"
+    "postinstall": "cd host && npm install && cd ../site && npm install && cd ..",
+    "vscode:prepublish": "npm run esbuild-base:host -- --minify && npm run esbuild-base:site -- --minify",
+    "esbuild-base:host": "esbuild ./host/code/extension.ts --bundle --outfile=host/make/extension.js --external:vscode --format=cjs --platform=node",
+    "esbuild-base:site": "esbuild ./site/code/site.ts --bundle --outfile=site/make/site.js --external:vscode --format=cjs --platform=node",
+    "esbuild": "npm run esbuild-base:host -- --sourcemap && npm run esbuild-base:site -- --sourcemap",
+    "esbuild-watch:host": "npm run esbuild-base:host -- --sourcemap --watch",
+    "esbuild-watch:site": "npm run esbuild-base:site -- --sourcemap --watch"
   },
   "devDependencies": {
     "@types/node": "^16.11.7",
