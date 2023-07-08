@@ -10,9 +10,6 @@
     "type": "git",
     "url": "https://github.com/tunebond/base-code"
   },
-  "bugs": {
-    "url": "https://github.com/tunebond/base-code"
-  },
   "engines": {
     "vscode": "^1.59.0"
   },
