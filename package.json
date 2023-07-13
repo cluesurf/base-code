@@ -1,8 +1,8 @@
 {
   "name": "base-link",
   "icon": "view/base.logo.png",
-  "displayName": "Base Link",
-  "description": "Base Link Language Server",
+  "displayName": "BaseLink",
+  "description": "BaseLink Language Server",
   "version": "0.0.4",
   "license": "Apache 2.0",
   "publisher": "tunebond",
