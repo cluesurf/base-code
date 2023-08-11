@@ -4,10 +4,10 @@
 	"author": "Lance Pollard",
 	"license": "Apache 2.0",
 	"version": "0.0.1",
-	"publisher": "tunebond",
+	"publisher": "nerdbond",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tunebond/base-code"
+		"url": "https://github.com/nerdbond/base-code"
 	},
 	"engines": {
 		"vscode": "^1.63.0"

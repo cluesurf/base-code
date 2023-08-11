@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/tunebond/base-code/blob/make/view/base.logo.png?raw=true' height='256'>
+  <img src='https://github.com/nerdbond/base-code/blob/make/view/base.logo.png?raw=true' height='256'>
 </p>
 
 <h3 align='center'>base-code</h3>
@@ -47,4 +47,4 @@ limitations under the License.
 
 ## TuneBond
 
-This is being developed by the folks at [TuneBond](https://tune.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/tunebond), [LinkedIn](https://www.linkedin.com/company/tunebond), and [Facebook](https://www.facebook.com/tunebond). Check out our other [GitHub projects](https://github.com/tunebond) as well!
+This is being developed by the folks at [TuneBond](https://tune.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/nerdbond), [LinkedIn](https://www.linkedin.com/company/nerdbond), and [Facebook](https://www.facebook.com/nerdbond). Check out our other [GitHub projects](https://github.com/nerdbond) as well!
