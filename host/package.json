@@ -4,10 +4,10 @@
 	"author": "Lance Pollard",
 	"license": "Apache 2.0",
 	"version": "0.0.1",
-	"publisher": "wavebond",
+	"publisher": "textsurf",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/wavebond/base-code"
+		"url": "https://github.com/textsurf/base-code"
 	},
 	"engines": {
 		"vscode": "^1.63.0"
