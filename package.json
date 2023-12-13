@@ -1,8 +1,8 @@
 {
   "name": "base-link",
   "icon": "view/base.logo.png",
-  "displayName": "BaseLink",
-  "description": "BaseLink Language Server",
+  "displayName": "BaseNote",
+  "description": "BaseNote Language Server",
   "version": "0.0.4",
   "license": "Apache 2.0",
   "publisher": "termsurf",
