@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/base-code/blob/make/view/base.logo.png?raw=true' height='256'>
+  <img src='https://github.com/termsurf/note-tree/blob/make/view/base.logo.png?raw=true' height='256'>
 </p>
 
-<h3 align='center'>base-code</h3>
+<h3 align='center'>note-tree</h3>
 <p align='center'>
-  The VSCode Language Server for Base
+  The VSCode Language Server for NoteTree
 </p>
 
 <br/>

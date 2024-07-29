@@ -1,5 +1,5 @@
 {
-  "name": "base-link",
+  "name": "note-tree",
   "icon": "view/base.logo.png",
   "displayName": "BaseNote",
   "description": "BaseNote Language Server",
